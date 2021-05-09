@@ -1,3 +1,7 @@
-style body {
-  font
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+p {
+  font-family: 'Courier New', Courier, monospace;
+  font-display: center;
 }
